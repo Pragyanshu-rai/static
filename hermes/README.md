@@ -1,3 +1,3 @@
-# hermes_static
+# Hermes static location
 
-This repository contains all the static files for hermes application
+This location contains all the static files for hermes application
