@@ -1,0 +1,1 @@
+All the static files for hermes is kept in this location.
